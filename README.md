@@ -7,3 +7,5 @@
 📌 Experiência com Next.js, React, NestJS, Flask, Node.js e bancos relacionais (MySQL, PostgreSQL)
 
 🌱 Construindo sistemas de gestão e soluções práticas para problemas reais
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitentovictor&layout=compact&theme=radical)
